@@ -1,0 +1,117 @@
+Industry Type,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012
+Total all industries,18963,15980,16466,13998,15493,21137,28030,19564,18521,17080
+"Total, private",17846,15018,15534,13238,14714,20130,26437,17887,17046,15966
+"Agriculture, forestry, fishing and hunting",1025,811,711,651,668,698,742,733,645,730
+"Mining, quarrying, and oil and gas extraction",101,69,75,58,66,103,314,102,75,142
+Utilities,40,25,25,20,20,28,39,30,30,30
+Construction,2013,1821,1975,1546,1952,2393,2833,2262,1994,1806
+Manufacturing,6150,4618,4839,4281,4643,6872,9627,4523,4397,3886
+Food,850,797,751,648,595,678,771,745,810,750
+Beverage and tobacco products,82,75,66,56,58,78,78,73,64,60
+Textile mills,245,169,160,143,146,179,195,109,182,169
+Textile product mills,111,93,86,66,63,69,76,59,61,62
+Apparel,295,220,179,128,131,149,201,134,124,134
+Leather and allied products,48,42,41,26,27,22,28,17,17,20
+Wood products,350,226,273,341,418,557,553,309,279,175
+Paper,156,82,98,86,78,146,241,93,95,69
+Printing and related support activities,125,118,98,74,90,132,235,131,101,102
+Petroleum and coal products,30,27,24,34,28,37,49,43,34,42
+Chemicals,105,101,77,69,75,122,193,116,90,78
+Plastics and rubber products,328,282,300,250,265,501,559,199,230,188
+Nonmetallic mineral products,233,167,204,172,215,316,400,224,200,162
+Primary metals,366,194,222,184,225,352,686,210,162,182
+Fabricated metal products,397,322,311,288,293,574,949,292,246,243
+Machinery,425,235,272,255,287,402,1046,331,270,294
+Computer and electronic products,481,230,217,173,190,285,626,198,184,192
+Electrical equipment and appliance mfg.,231,137,167,136,135,220,397,152,137,124
+Transportation equipment,927,821,1034,925,1068,1647,1827,811,821,602
+Furniture and related products,218,168,164,148,184,288,323,198,194,166
+Miscellaneous manufacturing,147,112,95,79,72,118,194,79,96,72
+Wholesale trade,318,222,251,184,220,363,653,328,262,282
+Retail trade,1327,1165,1196,991,1048,1457,1965,1574,1448,1393
+Transportation and warehousing,965,853,1011,934,982,1267,1491,1160,1180,1194
+Information,598,454,383,350,383,545,752,548,522,441
+Finance and insurance,384,322,272,310,510,552,677,430,313,305
+Real estate and rental and leasing,91,79,92,54,71,118,165,117,95,74
+Professional and technical services,522,420,427,352,420,564,800,599,555,510
+Management of companies and enterprises,35,38,27,28,42,61,104,60,49,58
+Administrative and waste services,2266,2035,1989,1741,1862,2699,3205,2579,2744,2477
+Educational services,82,60,70,63,67,100,149,161,167,182
+Health care and social assistance,499,522,585,415,450,580,675,709,738,692
+"Arts, entertainment, and recreation",285,287,293,245,240,311,389,363,338,329
+Accommodation and food services,886,980,1083,844,905,1238,1606,1386,1294,1221
+"Other services, except public administration",217,198,201,148,155,174,242,218,193,179
+Unclassified,42,39,29,23,10,7,9,5,7,35
+Government,1117,962,932,760,779,1007,1593,1677,1475,1114
+Federal,134,142,154,119,134,118,166,204,149,91
+State,205,177,196,130,136,184,305,292,331,238
+Local,778,643,582,511,509,705,1122,1181,995,785
+"Total, private nonfarm",16821,14207,14823,12587,14046,19432,25695,17154,16401,15236
+Crop production,372,268,237,243,214,227,258,267,234,230
+Animal production and aquaculture,4,6,,,,,,,,
+Forestry and logging,,,,,3,3,,,,
+"Fishing, hunting and trapping",,,,,,,,,,
+Agriculture and forestry support activities,645,535,464,406,449,465,476,461,407,495
+Oil and gas extraction,4,6,,,3,,7,,,
+"Mining, except oil and gas",67,49,68,53,57,70,142,73,50,95
+Support activities for mining,30,14,5,,6,29,165,28,25,46
+Construction of buildings,381,326,313,265,335,447,514,373,309,280
+Heavy and civil engineering construction,752,688,794,640,775,835,927,874,851,754
+Specialty trade contractors,880,807,868,641,842,1111,1392,1015,834,772
+"Merchant wholesalers, durable goods",142,79,101,63,90,193,384,141,91,103
+"Merchant wholesalers, nondurable goods",150,109,116,85,104,122,191,136,116,133
+Electronic markets and agents and brokers,26,34,34,36,26,48,78,51,55,46
+Motor vehicle and parts dealers,48,40,65,33,38,120,88,49,42,33
+Furniture and home furnishings stores,19,20,22,17,20,47,58,15,16,19
+Electronics and appliance stores,68,51,41,40,54,60,129,62,44,45
+Building material and garden supply stores,86,88,100,88,99,141,183,151,139,124
+Food and beverage stores,246,226,218,167,171,214,311,305,254,255
+Health and personal care stores,59,47,49,38,48,62,81,73,64,64
+Gasoline stations,54,35,32,17,30,53,80,59,62,47
+Clothing and clothing accessories stores,123,103,115,95,95,136,223,148,134,129
+"Sports, hobby, music instrument, book stores",52,44,47,32,43,51,81,58,84,36
+General merchandise stores,439,402,402,377,360,452,587,539,501,540
+Miscellaneous store retailers,46,43,36,28,31,42,52,39,32,32
+Nonstore retailers,87,66,69,59,59,79,92,76,76,69
+Air transportation,109,42,55,37,,61,58,31,15,32
+Rail transportation,,,,,,,,,,
+Water transportation,20,21,24,25,22,30,25,20,22,25
+Truck transportation,126,110,120,108,135,234,275,146,106,98
+Transit and ground passenger transportation,541,549,662,614,665,701,801,756,840,850
+Pipeline transportation,,,,,,,,,,
+Scenic and sightseeing transportation,,5,11,10,4,6,11,5,5,3
+Support activities for transportation,77,51,62,57,49,68,110,65,51,54
+Postal service,,,,,,,,,,
+Couriers and messengers,47,45,37,38,35,68,84,55,45,39
+Warehousing and storage,39,29,40,45,65,99,127,81,95,92
+"Publishing industries, except Internet",72,47,48,41,42,107,196,98,73,56
+Motion picture and sound recording industries,198,183,178,172,207,245,291,255,271,246
+Internet publishing and broadcasting,48,33,30,29,32,35,50,32,31,29
+Telecommunications,214,147,109,84,83,131,168,148,115,85
+"Data processing, hosting and related services",60,40,18,23,17,22,37,10,27,21
+Other information services,6,4,,,,,10,,5,
+Monetary authorities - central bank,,,,,,,,,,
+Credit intermediation and related activities,186,202,174,185,386,356,366,222,179,163
+"Securities, commodity contracts, investments",44,18,17,14,24,56,81,30,23,20
+Insurance carriers and related activities,144,95,75,102,97,133,191,131,73,71
+"Funds, trusts, and other financial vehicles",9,6,6,8,,,39,46,34,49
+Real estate,33,27,36,18,33,45,67,46,28,29
+Rental and leasing services,55,47,51,34,37,73,98,71,66,45
+Lessors of nonfinancial intangible assets,,5,5,,,,,,,
+Professional and technical services,522,420,427,352,420,564,800,599,555,510
+Management of companies and enterprises,35,38,27,28,42,61,104,60,49,58
+Administrative and support services,2249,2026,1966,1732,1850,2675,3170,2557,2714,2450
+Waste management and remediation services,17,9,23,9,12,24,35,22,30,27
+Educational services,82,60,70,63,67,100,149,161,167,182
+Ambulatory health care services,64,57,83,37,39,71,85,79,92,85
+Hospitals,100,90,97,57,67,112,152,137,121,122
+Nursing and residential care facilities,80,80,110,33,40,73,73,99,107,85
+Social assistance,255,295,295,288,304,324,365,394,418,400
+Performing arts and spectator sports,153,153,156,139,149,150,184,172,171,148
+"Museums, historical sites, zoos, and parks",,4,7,5,4,8,12,9,13,12
+"Amusements, gambling, and recreation",127,130,130,101,87,153,193,182,154,169
+Accommodations,307,307,312,246,243,386,602,411,358,325
+Food services and drinking places,579,673,771,598,662,852,1004,975,936,896
+Repair and maintenance,37,43,38,26,33,36,64,54,52,50
+Personal and laundry services,63,53,72,37,39,43,68,53,38,34
+Membership associations and organizations,117,102,90,83,83,95,110,111,103,95

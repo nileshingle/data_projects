@@ -1,0 +1,267 @@
+Code,Type
+C00A1,"Persons age under 30, total"
+C00A2,"Persons age 30 to 44, total"
+C00A3,"Persons age 45 to 54, total"
+C00A4,"Persons age 55 and over, total"
+C00A5,"Persons age not available, total"
+C00G1,"Men, total"
+C00G2,"Women, total"
+C00G3,"Gender not available, total"
+C00R1,"White, total"
+C00R2,"Black, total"
+C00R3,"Hispanic origin, total"
+C00R4,"American Indian or Alaskan Native, total"
+C00R5,"Asian or Pacific Islander, total"
+C00R6,"Race and ethnicity not available, total"
+C01A1,"Persons age under 30, private nonfarm"
+C01A2,"Persons age 30 to 44, private nonfarm"
+C01A3,"Persons age 45 to 54, private nonfarm"
+C01A4,"Persons age 55 and over, private nonfarm"
+C01A5,"Persons age not available, private nonfarm"
+C01G1,"Men, private nonfarm"
+C01G2,"Women, private nonfarm"
+C01G3,"Gender not available, private nonfarm"
+C01R1,"White, private nonfarm"
+C01R2,"Black, private nonfarm"
+C01R3,"Hispanic origin, private nonfarm"
+C01R4,"American Indian or Alaskan Native, private nonfarm"
+C01R5,"Asian or Pacific Islander, private nonfarm"
+C01R6,"Race and ethnicity not available, private nonfarm"
+N0001,Total all industries
+N0002,"Total, private"
+N0003,"Agriculture, forestry, fishing and hunting"
+N0004,"Mining, quarrying, and oil and gas extraction"
+N0005,Utilities
+N0006,Construction
+N0007,Manufacturing
+N0008,Food
+N0009,Beverage and tobacco products
+N0010,Textile mills
+N0011,Textile product mills
+N0012,Apparel
+N0013,Leather and allied products
+N0014,Wood products
+N0015,Paper
+N0016,Printing and related support activities
+N0017,Petroleum and coal products
+N0018,Chemicals
+N0019,Plastics and rubber products
+N0020,Nonmetallic mineral products
+N0021,Primary metals
+N0022,Fabricated metal products
+N0023,Machinery
+N0024,Computer and electronic products
+N0025,Electrical equipment and appliance mfg.
+N0026,Transportation equipment
+N0027,Furniture and related products
+N0028,Miscellaneous manufacturing
+N0029,Wholesale trade
+N0030,Retail trade
+N0031,Transportation and warehousing
+N0032,Information
+N0033,Finance and insurance
+N0034,Real estate and rental and leasing
+N0035,Professional and technical services
+N0036,Management of companies and enterprises
+N0037,Administrative and waste services
+N0038,Educational services
+N0039,Health care and social assistance
+N0040,"Arts, entertainment, and recreation"
+N0041,Accommodation and food services
+N0042,"Other services, except public administration"
+N0043,Unclassified
+N0044,Government
+N0045,Federal
+N0046,State
+N0047,Local
+N0048,"Total, private nonfarm"
+N0049,Crop production
+N0050,Animal production and aquaculture
+N0051,Forestry and logging
+N0052,"Fishing, hunting and trapping"
+N0053,Agriculture and forestry support activities
+N0054,Oil and gas extraction
+N0055,"Mining, except oil and gas"
+N0056,Support activities for mining
+N0057,Construction of buildings
+N0058,Heavy and civil engineering construction
+N0059,Specialty trade contractors
+N0060,"Merchant wholesalers, durable goods"
+N0061,"Merchant wholesalers, nondurable goods"
+N0062,Electronic markets and agents and brokers
+N0063,Motor vehicle and parts dealers
+N0064,Furniture and home furnishings stores
+N0065,Electronics and appliance stores
+N0066,Building material and garden supply stores
+N0067,Food and beverage stores
+N0068,Health and personal care stores
+N0069,Gasoline stations
+N0070,Clothing and clothing accessories stores
+N0071,"Sports, hobby, music instrument, book stores"
+N0072,General merchandise stores
+N0073,Miscellaneous store retailers
+N0074,Nonstore retailers
+N0075,Air transportation
+N0076,Rail transportation
+N0077,Water transportation
+N0078,Truck transportation
+N0079,Transit and ground passenger transportation
+N0080,Pipeline transportation
+N0081,Scenic and sightseeing transportation
+N0082,Support activities for transportation
+N0083,Postal service
+N0084,Couriers and messengers
+N0085,Warehousing and storage
+N0086,"Publishing industries, except Internet"
+N0087,Motion picture and sound recording industries
+N0088,"Broadcasting, except Internet"
+N0089,Internet publishing and broadcasting
+N0090,Telecommunications
+N0091,"Data processing, hosting and related services"
+N0092,Other information services
+N0093,Monetary authorities - central bank
+N0094,Credit intermediation and related activities
+N0095,"Securities, commodity contracts, investments"
+N0096,Insurance carriers and related activities
+N0097,"Funds, trusts, and other financial vehicles"
+N0098,Real estate
+N0099,Rental and leasing services
+N0100,Lessors of nonfinancial intangible assets
+N0101,Professional and technical services
+N0102,Management of companies and enterprises
+N0103,Administrative and support services
+N0104,Waste management and remediation services
+N0105,Educational services
+N0106,Ambulatory health care services
+N0107,Hospitals
+N0108,Nursing and residential care facilities
+N0109,Social assistance
+N0110,Performing arts and spectator sports
+N0111,"Museums, historical sites, zoos, and parks"
+N0112,"Amusements, gambling, and recreation"
+N0113,Accommodations
+N0114,Food services and drinking places
+N0115,Repair and maintenance
+N0116,Personal and laundry services
+N0117,Membership associations and organizations
+N0118,Private households
+N0119,Total all industries (seasonally adjusted)
+N0120,"Total, private nonfarm (seasonally adjusted)"
+N0121,Manufacturing (seasonally adjusted)
+R0000,"Total, all reasons"
+R0010,"Business demand, total"
+R0011,"Contract cancellation, total"
+R0012,"Contract completion, total"
+R0013,"Domestic competition, total"
+R0014,"Excess inventory/saturated market, total"
+R0015,"Import competition, total"
+R0016,"Slack work/insufficient demand/non-seasonal business slowdown, total"
+R0020,"Disaster/safety, total"
+R0021,"Hazardous work environment, total"
+R0022,"Natural disaster (not weather related), total"
+R0023,"Non-natural disaster, total"
+R0024,"Extreme weather-related event, total"
+R0030,"Financial, total"
+R0031,"Bankruptcy, total"
+R0032,"Cost control/cost cutting/increase profitability, total"
+R0033,"Financial difficulty, total"
+R0040,"Organizational, total"
+R0041,"Business-ownership change, total"
+R0042,"Reorganization or restructuring of company, total"
+R0050,"Production, total"
+R0051,"Automation/technological advances, total"
+R0052,"Energy related, total"
+R0053,"Governmental regulations/intervention, total"
+R0054,"Labor dispute/contract negotiations/strike, total"
+R0055,"Material or supply shortage, total"
+R0056,"Model changeover, total"
+R0057,"Plant or machine repair/maintenance, total"
+R0058,"Product line discontinued, total"
+R0060,"Seasonal, total"
+R0061,"Seasonal, total"
+R0062,"Vacation period - school related or otherwise, total"
+R0090,"Other/miscellaneous, total"
+R0091,"Other, total"
+R0098,"Data not provided: REFUSAL, total"
+R0099,"Data not provided: DOES NOT KNOW, total"
+R00AA,"Domestic relocation, total"
+R00AB,"Overseas relocation, total"
+R0100,"Total, private nonfarm"
+R0110,Business demand
+R0111,Contract cancellation
+R0112,Contract completion
+R0113,Domestic competition
+R0114,Excess inventory/saturated market
+R0115,Import competition
+R0116,Slack work/insufficient demand/non-seasonal business slowdown
+R0120,Disaster/safety
+R0121,Hazardous work environment
+R0122,Natural disaster (not weather related)
+R0123,Non-natural disaster
+R0124,Extreme weather-related event
+R0130,Financial
+R0131,Bankruptcy
+R0132,Cost control/cost cutting/increase profitability
+R0133,Financial difficulty
+R0140,Organizational
+R0141,Business-ownership change
+R0142,Reorganization or restructuring of company
+R0150,Production
+R0151,Automation/technological advances
+R0152,Energy related
+R0153,Governmental regulations/intervention
+R0154,Labor dispute/contract negotiations/strike
+R0155,Material or supply shortage
+R0156,Model changeover
+R0157,Plant or machine repair/maintenance
+R0158,Product line discontinued
+R0160,Seasonal
+R0161,Seasonal
+R0162,Vacation period - school related or otherwise
+R0190,Other/miscellaneous
+R0191,Other
+R0198,Data not provided: REFUSAL
+R0199,Data not provided: DOES NOT KNOW
+R01AA,Domestic relocation
+R01AB,Overseas relocation
+S0001,Total all industries
+S0002,"Total all industries, private"
+S0003,Agriculture
+S0004,Nonagriculture
+S0005,Manufacturing
+S0006,Durable goods
+S0010,Lumber and wood products
+S0011,Furniture and fixtures
+S0018,"Stone, clay and glass products"
+S0019,Primary metal industries
+S0020,Fabricated metal products
+S0021,Industrial machinery and equipment
+S0022,Electronic and other electrical equipment
+S0023,Transportation equipment
+S0024,Instruments and related products
+S0025,Miscellaneous manufacturing industries
+S0026,Nondurable goods
+S0027,Food and kindred products
+S0028,Tobacco products
+S0029,Textile mill products
+S0030,Apparel and other textile products
+S0033,Paper and allied products
+S0034,Printing and publishing
+S0035,Chemicals and allied products
+S0036,Petroleum and coal products
+S0037,Rubber and miscellaneous plastics products
+S0038,Leather and leather products
+S0039,Nonmanufacturing
+S0040,Mining
+S0041,Construction
+S0042,Transportation and public utilities
+S0043,Wholesale and retail trade
+S0044,Wholesale trade
+S0045,Retail trade
+S0046,"Finance, insurance, and real estate"
+S0047,Services
+S0048,Not identified
+S0049,Government
+S0050,Federal government
+S0051,State government
+S0052,Local government

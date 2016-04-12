@@ -1,0 +1,29 @@
+Code,Type
+000000,Total nonfarm
+100000,Total private
+110099,Mining and logging
+230000,Construction
+300000,Manufacturing
+320000,Durable goods manufacturing
+340000,Nondurable goods manufacturing
+400000,Trade transportation and utilities
+420000,Wholesale trade
+440000,Retail trade
+480099,Transportation warehousing and utilities
+510000,Information
+510099,Financial activities
+520000,Finance and insurance
+530000,Real estate and rental and leasing
+540099,Professional and business services
+600000,Education and health services
+610000,Educational services
+620000,Health care and social assistance
+700000,Leisure and hospitality
+710000,Arts entertainment and recreation
+720000,Accommodation and food services
+810000,Other services
+900000,Government
+910000,Federal
+920000,State and local
+923000,State and local government education
+929000,State and local government excluding education
